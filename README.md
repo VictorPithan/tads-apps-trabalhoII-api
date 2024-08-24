@@ -1,4 +1,4 @@
-# Quiz App
+# TRABALHO II - APPS
 
 This is a simple API application developed in NODEJS.
 
