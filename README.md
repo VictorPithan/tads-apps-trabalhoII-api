@@ -17,12 +17,12 @@ Before running the application, you need to have Node.js installed on your devel
 
 ### 1. Clone this repository:
 ```bash
-git clone https://github.com/VictorPithan/trabalhoII-apps
+git clone https://github.com/VictorPithan/tads-apps-trabalhoII-api.git
 ```
 
 ### 2. Install the project dependencies:
 ```bash
-cd trabalhoII-apps/tads-apps-nodejs-api-main
+cd tads-apps-trabalhoII-api
 npm install
 ```
 
